@@ -17,6 +17,12 @@
       "employeeId": "A000002",
       "name": "Vabibane",
       "slack": "@vabibane"
+    },
+      {
+      "login": "mayur",
+      "employeeId": "A000000",
+      "name": "Mayur",
+      "slack": "@mayur"
     }
   ],
   "updated": "2026-08-03"
