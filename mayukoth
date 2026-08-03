@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "login": "jdoe",
+      "employeeId": "4355345",
+      "name": "Mayur Kothiya",
+      "slack": "@mayukoth"
+    },
+    {
+      "login": "asmith",
+      "employeeId": "A789012",
+      "name": "Alex Smith",
+      "slack": "@alex.smith"
+    }
+  ],
+  "updated": "2026-08-03"
+}
