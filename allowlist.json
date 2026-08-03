@@ -1,9 +1,9 @@
 {
   "users": [
     {
-      "login": "mayurkothiya",
+      "login": "maurkota",
       "employeeId": "A000000",
-      "name": "Mayur Kothiya",
+      "name": "Maur Kota",
       "slack": "@mayur"
     },
     {
@@ -19,10 +19,10 @@
       "slack": "@vabibane"
     },
       {
-      "login": "mayur",
+      "login": "mar",
       "employeeId": "A000000",
-      "name": "Mayur",
-      "slack": "@mayur"
+      "name": "yur",
+      "slack": "@mur"
     }
   ],
   "updated": "2026-08-03"
