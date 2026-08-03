@@ -5,6 +5,18 @@
       "employeeId": "A000000",
       "name": "Mayur Kothiya",
       "slack": "@mayur"
+    },
+    {
+      "login": "jaspsaho",
+      "employeeId": "A000001",
+      "name": "Jaspsaho",
+      "slack": "@jaspsaho"
+    },
+    {
+      "login": "vabibane",
+      "employeeId": "A000002",
+      "name": "Vabibane",
+      "slack": "@vabibane"
     }
   ],
   "updated": "2026-08-03"
