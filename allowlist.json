@@ -1,6 +1,28 @@
 {
   "users": [
     {
+      "login": "mayukoth",
+      "employeeId": "203128752",
+      "name": "Mayur Kothiya",
+      "slack": "@mayur"
+    },
+    {
+      "login": "jaspsaho",
+      "employeeId": "A000001",
+      "name": "Jaspsaho",
+      "slack": "@jaspsaho"
+    },
+    {
+      "login": "vabibane",
+      "employeeId": "A000002",
+      "name": "Vabibane",
+      "slack": "@vabibane"
+    }
+  ],
+  "updated": "2026-08-08"
+}{
+  "users": [
+    {
       "login": "mayuk",
       "employeeId": "2031287",
       "name": "Mayur Kothi",
